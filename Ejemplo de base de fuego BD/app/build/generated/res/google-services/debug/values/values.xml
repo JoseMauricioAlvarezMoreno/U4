@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">564697334130-3ps2jlc8aa5l2n0ith5r210oi8qpr2v9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">564697334130</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWEJUEPRFZRBK7oxaWHD_4zyNCP786PVs</string>
+    <string name="google_app_id" translatable="false">1:564697334130:android:b155c39281d1be3a515deb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWEJUEPRFZRBK7oxaWHD_4zyNCP786PVs</string>
+    <string name="google_storage_bucket" translatable="false">ejemplo-jmam.appspot.com</string>
+    <string name="project_id" translatable="false">ejemplo-jmam</string>
+</resources>
